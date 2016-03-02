@@ -1,8 +1,8 @@
 {
   "name": "is",
-  "repo": "ianstormtaylor/is",
+  "repo": "treetopllc/is",
   "license": "MIT",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Simple type checking.",
   "keywords": [
     "type",
@@ -10,7 +10,7 @@
   ],
   "dependencies": {
     "component/type": "*",
-    "ianstormtaylor/is-empty": "*"
+    "treetopllc/is-empty": "1.0.1"
   },
   "development": {
     "component/assert": "*"

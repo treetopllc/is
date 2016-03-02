@@ -1,8 +1,8 @@
 {
   "name": "is",
-  "repository": "git://github.com/ianstormtaylor/is.git",
+  "repository": "git://github.com/treetopllc/is.git",
   "license": "MIT",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Simple type checking.",
   "keywords": [
     "type",
@@ -10,6 +10,6 @@
   ],
   "dependencies": {
     "component-type": "1.0.0",
-    "is-empty": "0.0.1"
+    "is-empty": "1.0.1"
   }
 }
